@@ -1,2 +1,2 @@
 # UndergraduateProjects
-Undergraduate Lab Report in Gamma Ray Spectroscopy 
+A variety of projects from my undergraduate degree in theoretical physics.
